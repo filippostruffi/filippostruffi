@@ -8,7 +8,7 @@ About me
 
 📌 [Download my Curriculum Vitae](CV.pdf)
 
-📫 You can reach me at: [LinkedIn](www.linkedin.com/in/filippo-struffi), [Email](mailto:filippo.struffi@gmail.com)
+📫 You can reach me at: [LinkedIn](https://www.linkedin.com/in/filippo-struffi), [Email](mailto:filippo.struffi@gmail.com)
 
 ---
 
