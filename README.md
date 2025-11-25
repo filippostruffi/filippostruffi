@@ -1,34 +1,18 @@
-<div id="user-content-toc">
-  <ul>
-    <summary><h1 style="display: inline-block;"> Filippo Struffi</h1></summary>
-  </ul>
-</div>
+# Filippo Struffi
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;">Candidate for Data Science Engineer Master @ Politecnico di Torino </h3></summary>
-  </ul>
-</div>
+### Candidate for Data Science Engineer Master @ Politecnico di Torino
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;"> About Me</h3></summary>
-  </ul>
-</div>
+About me
+--------
+💡 I’m curious, driven, and passionate about solving problems through data, technology, and hands-on projects.
 
-💡 &nbsp; I’m curious, driven, and passionate about solving problems through data, technology, and hands-on projects.
+📌 [Download my Curriculum Vitae](CV.pdf)
 
-📌 &nbsp; [Download my Curriculum Vitae](CV.pdf)
+📫 You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Email](mailto:filippo.struffi@gmail.com)
 
+---
 
-📫 &nbsp; You can reach me at: [LinkedIn](https://www.linkedin.com/in/giovanni-pollo/), [Email](mailto:filippo.struffi@gmail.com)
-
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;">👨🏻‍💻 &nbsp;Languages and Tools</h3></summary>
-  </ul>
-</div>
+### 👨🏻‍💻 Languages and Tools
 
 ![Mac](https://img.shields.io/badge/Mac-05122A?style=flat&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -44,15 +28,10 @@
 ![Matlab](https://img.shields.io/badge/Matlab-05122A?style=flat&logo=Mathworks&logoColor=0076A8)
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
 
+---
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block;">📈 &nbsp;GitHub Stats</h3></summary>
-  </ul>
-</div>
-<p align="center">
-<a href="https://github.com/giop98/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filippostruffi&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filippostruffi&layout=compact&langs_count=8&theme=nord"/>
-</a>
+### 📈 GitHub Stats
+
+</p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filippostruffi&layout=compact&langs_count=8&theme=nord" alt="Top languages">
 </p>
