@@ -1,6 +1,6 @@
 # Filippo Struffi
 
-### Candidate for Data Science Engineer Master @ Politecnico di Torino
+### Candidate for Data Science Engineering Master @ Politecnico di Torino
 
 About me
 --------
