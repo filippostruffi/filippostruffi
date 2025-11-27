@@ -4,27 +4,15 @@
 
 About me
 --------
+
 💡 I’m curious, driven, and passionate about solving problems through data, technology, and hands-on projects.
 
 📌 [Download my Curriculum Vitae](CV.pdf)
 
-📫 You can reach me at: 
 
-<a href="https://filippostruffi.github.io">
-  <img align="left" alt="Filippo's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
-</a>
 
-<a href="https://linkedin.com/in/filippo-struffi">
-  <img align="left" alt="Filippo's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
-</a>
-
-<a href="mailto:filippo.struffi@gmail.com">
-  <img align="left" alt="Filippo's Email" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
-</a>
-
----
-
-### 👨🏻‍💻 Languages and Tools
+👨🏻‍💻 Languages and Tools
+--------
 
 ![Mac](https://img.shields.io/badge/Mac-05122A?style=flat&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -40,10 +28,28 @@ About me
 ![Matlab](https://img.shields.io/badge/Matlab-05122A?style=flat&logo=Mathworks&logoColor=0076A8)
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
 
----
 
-### 📈 GitHub Stats
+
+
+📈 GitHub Stats
+--------
 
 </p>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filippostruffi&layout=compact&langs_count=8&theme=nord" alt="Top languages">
 </p>
+
+
+📫 You can reach me at: 
+--------
+
+<a href="https://filippostruffi.github.io">
+  <img align="left" alt="Filippo's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
+</a>
+
+<a href="https://linkedin.com/in/filippo-struffi">
+  <img align="left" alt="Filippo's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+</a>
+
+<a href="mailto:filippo.struffi@gmail.com">
+  <img align="left" alt="Filippo's Email" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
