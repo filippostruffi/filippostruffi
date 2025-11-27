@@ -8,7 +8,19 @@ About me
 
 📌 [Download my Curriculum Vitae](CV.pdf)
 
-📫 You can reach me at: [LinkedIn](https://www.linkedin.com/in/filippo-struffi), [Email](mailto:filippo.struffi@gmail.com)
+📫 You can reach me at: 
+
+<a href="https://filippostruffi.github.io">
+  <img align="left" alt="Filippo's Website" width="20px" src="https://simpleicons.now.sh/googlechrome/495f7e" />
+</a>
+
+<a href="https://linkedin.com/in/filippo-struffi">
+  <img align="left" alt="Filippo's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+</a>
+
+<a href="mailto:filippo.struffi@gmail.com">
+  <img align="left" alt="Filippo's Email" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
 
 ---
 
