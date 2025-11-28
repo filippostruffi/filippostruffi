@@ -29,6 +29,13 @@ About me
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5&logoColor=E34F26)
 
 
+📈 GitHub Stats
+--------
+
+</p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filippostruffi&layout=compact&langs_count=8&theme=nord" alt="Top languages">
+</p>
+
 
 
 📫 You can reach me at: 
