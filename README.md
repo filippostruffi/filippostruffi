@@ -14,7 +14,6 @@ About me
 👨🏻‍💻 Languages and Tools
 --------
 
-![Mac](https://img.shields.io/badge/Mac-05122A?style=flat&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=336791)
